@@ -1,35 +1,26 @@
 body {
-	background-image: url("Assets/stripes.png"), url("Assets/background.jpg");
-	background-repeat: repeat-x, no-repeat;
-	background-size: auto, center;
-	background-color: #535a6a;
-}
-
-#logo {
-	position: fixed;
-	top: 33.33%; 
-	margin-left: 10%;
-}
-
-hr {
-	position: fixed;
-	top: 45%;
-	margin-left: 10%;
-	width: 50px;
-	border: 1px solid #fd6e6e;
+	background-image: url("images/stripes.png"), url("images/background.jpg");
+	background-size: auto, cover;
+	background-repeat: repeat-x, repeat;
+	background-color: #52596b;
+	margin-top: 200px;
+	margin-left: 100px;
 }
 
 p {
-	font-family: arial, sans-serif;
-	font-size: 18px;
 	color: white;
-	position: fixed;
-	top: 50%;
-	margin-left: 10%;
+	font-size: 26px;
+	font-family: helvetica;
+	font-weight: lighter;
+	line-height: 30px;
 }
 
-#appstore {
-	position: fixed;
-	top: 66%;
-	margin-left: 10%;	
+hr {
+	border-color: #fc6e6e;
+	width: 45px;
+	margin-left: 0;
+}
+
+h1 {
+	padding-bottom:5px;	
 }
