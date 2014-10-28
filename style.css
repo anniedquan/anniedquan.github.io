@@ -1,0 +1,35 @@
+body {
+	background-image: url("Taasky/stripes.png"), url("Taasky/background.jpg");
+	background-repeat: repeat-x, no-repeat;
+	background-size: auto, center;
+	background-color: #535a6a;
+}
+
+#logo {
+	position: fixed;
+	top: 33.33%; 
+	margin-left: 10%;
+}
+
+hr {
+	position: fixed;
+	top: 45%;
+	margin-left: 10%;
+	width: 50px;
+	border: 1px solid #fd6e6e;
+}
+
+p {
+	font-family: arial, sans-serif;
+	font-size: 18px;
+	color: white;
+	position: fixed;
+	top: 50%;
+	margin-left: 10%;
+}
+
+#appstore {
+	position: fixed;
+	top: 66%;
+	margin-left: 10%;	
+}
