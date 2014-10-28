@@ -9,7 +9,7 @@ body {
 
 p {
 	color: white;
-	font-size: 26px;
+	font-size: 20px;
 	font-family: helvetica;
 	font-weight: lighter;
 	line-height: 30px;
@@ -17,10 +17,11 @@ p {
 
 hr {
 	border-color: #fc6e6e;
-	width: 45px;
+	width: 70px;
 	margin-left: 0;
+	padding-bottom: 5px;
 }
 
 h1 {
-	padding-bottom:5px;	
+	padding-bottom: 5px;	
 }
