@@ -1,0 +1,50 @@
+body {
+  margin-top: 60px;
+  text-align: center;
+  background: url("unit4/images/wood.jpg");
+  background-size: cover;
+  background-position: center;
+  color:black;
+  font-family: 'Open Sans Condensed', sans-serif;
+} 
+h1 {
+  padding-top: 10px;
+  font-size: 2em;
+  font-style: bold; 
+  font-family: 'Oswald', sans-serif;
+  color: #000000
+}
+  hr {
+    width; 50px;
+    line-height: 20px
+    color: #000000;
+    text-align: center;
+}
+p {
+  font-size: 14px;
+}
+p.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 2em
+}
+ul {
+  text-align: left; margin: auto; text-indent: 100px;
+} 
+input {
+  border: 0;
+  padding: 10px;
+  font-size: 18px;
+}
+input[type="submit"] {
+  background: #358df2;
+  color: white;
+}
+h3 {
+  padding-top: 10px;
+  font-size: 1em;
+  font-style: normal; 
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #FFFFFF
+}
+
